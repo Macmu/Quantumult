@@ -1,6 +1,6 @@
 # Quantumult X cookie获取
 
-hostname = c.tieba.baidu.com, mobwsa.ximalaya.com, api.m.jd.com,daojia.jd.com,act.10010.com, m.client.10010.com, m.xiaomiyoupin.com, mp.weixin.qq.com
+hostname = mobwsa.ximalaya.com, api.m.jd.com, daojia.jd.com, act.10010.com, m.client.10010.com, m.xiaomiyoupin.com, iface?.iqiyi.com
 
 # 京东商城 获取途径：bean.m.jd.com
 https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
